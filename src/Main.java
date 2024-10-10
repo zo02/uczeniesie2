@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Register!");
         System.out.println("Register!");
         System.out.println("Register");
+        System.out.println("Teścik");
     }
 
 }
