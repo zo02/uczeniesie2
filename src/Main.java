@@ -3,6 +3,9 @@ public class Main {
         System.out.println("Hello!");
         System.out.println("Hello!");
         System.out.println("Hello!");
+        System.out.println("Register!");
+        System.out.println("Register!");
+        System.out.println("Register");
     }
 
 }
